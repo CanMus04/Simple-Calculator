@@ -23,8 +23,7 @@ I used tutorials and resources from the web, and when I encountered bugs or wasn
 
 ## Live Demo
 
-You can try a live demo of this project here: [https://your-app-name.herokuapp.com](https://your-app-name.herokuapp.com)  
-*(Only if you deploy the calculator on Heroku or another platform)*
+You can try a live demo of this project here: ////////
 
 ## Technologies Used
 - Python (for the application logic)
