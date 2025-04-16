@@ -21,16 +21,6 @@ I used tutorials and resources from the web, and when I encountered bugs or wasn
 3. The program performs the selected operation and displays the result.
 4. The user can choose to perform another calculation or exit the application by entering 'q'.
 
-## Live Demo
-
-You can try a live demo of this project here: ////////
-
 ## Technologies Used
 - Python (for the application logic)
 
-## Instructions to Run
-
-1. Clone this repository.
-2. Run the Python script using your terminal/command prompt:
-   ```bash
-   python simple_calculator.py
